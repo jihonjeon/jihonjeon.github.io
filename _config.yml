@@ -213,6 +213,8 @@ exclude:
   - README.md
   - LICENSE
   - purgecss.js
+  - package-lock.json
+  - package.json
   - "*.config.js"
   - "package*.json"
 

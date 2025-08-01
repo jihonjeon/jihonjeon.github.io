@@ -28,7 +28,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://jihonjeon.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: jihonjeon  # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -48,7 +48,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: "ReZfrD1F6CgIdGUkr0pgft4k0-XZKCGQDIhqQddsGWI" # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code

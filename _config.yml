@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-markdown : kramdown 
+# markdown : kramdown 
 # theme : chirpy
 theme: jekyll-theme-chirpy
 
@@ -170,11 +170,11 @@ kramdown:
       line_numbers: true
       start_line: 1
   math_engine: mathjax
-  input: GFM
+  # input: GFM
 
-plugins:
-	- jekyll-feed
-	- jekyll-seo-tag
+#plugins:
+#	- jekyll-feed
+# 	- jekyll-seo-tag
  
 collections:
   tabs:

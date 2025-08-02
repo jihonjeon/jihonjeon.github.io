@@ -4,7 +4,7 @@ date: 2025-07-18 12:00:00 +0900
 categories: [IEEE754, double, single]
 tags: [IEEE754, float, double, kahan]
 math: true  # 👈 수식 렌더링용 설정
-permalink: /posts/test/
+permalink: /posts/ieee754-errors-algorithms/
 sitemap:
   changefreq: weekly
   priority: 0.5

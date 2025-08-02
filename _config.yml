@@ -183,7 +183,7 @@ collections:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
+  # - jekyll-feed
 
 defaults:
   - scope:
